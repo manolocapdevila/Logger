@@ -16,4 +16,6 @@ puede sobreescribir la clase para implementarla.
 Comentarios:
   * La aplicación habéis comentado que tiene que ser simple. No hay validaciones ni tratamiento de errores
   * Podía haber creado una factoría para crear los diferentes tipos de logs, pero quería entregar esto rápido (no tengo mucho tiempo "libre"), además de que fuese algo simple _:)
+  * Debéis poner como proyecto de inicio el de DemoConsola
+  
 
